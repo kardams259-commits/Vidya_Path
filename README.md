@@ -125,16 +125,6 @@ PWA तैयार है, इसलिए सीधे **[PWABuilder](https://
 
 ---
 
-## 🗂 Project structure
-
-```
-index.html          # पूरा ऐप — UI, डेटा (फ्लैशकार्ड/क्विज़), AI, कैलकुलेटर
-manifest.json       # PWA manifest (installability)
-sw.js               # Service worker — offline cache
-icon.svg            # App icon
-splash.html         # Splash screen (APK/PWA tools के लिए)
-```
-
 ## 🔒 Privacy
 
 - कोई बैकएंड, कोई अकाउंट, कोई analytics नहीं।
