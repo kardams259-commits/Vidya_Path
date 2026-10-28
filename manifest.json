@@ -1,0 +1,22 @@
+{
+  "name": "VidyaPath — UP Board Smart Study",
+  "short_name": "VidyaPath",
+  "description": "UP Board कक्षा 11 एवं 12 के विद्यार्थियों के लिए फ्लैशकार्ड, MCQ क्विज़, AI अध्ययन सहायक और वैज्ञानिक कैलकुलेटर।",
+  "lang": "hi",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1A237E",
+  "theme_color": "#1A237E",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
